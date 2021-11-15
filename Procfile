@@ -1,1 +1,1 @@
-web: pip install . -U && scripts/ourfinalweek-run
+web: pip install . -U && ourfinalweek-run
