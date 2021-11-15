@@ -8,5 +8,5 @@ from ourfinalweek.lib import hello_week
 # 123
 
 # "this is a string"
-"# message:"
+"# Message:"
 st.write(hello_week())
