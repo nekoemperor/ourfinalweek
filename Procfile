@@ -1,1 +1,1 @@
-web: pip install . -U && ourfinalweek-run
+web: sh setup.sh && streamlit run app.py

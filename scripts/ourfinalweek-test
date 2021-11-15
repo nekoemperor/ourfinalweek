@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+from ourfinalweek.lib import hello_week
+
+print(hello_week())
